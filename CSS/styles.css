@@ -1,0 +1,127 @@
+body{
+    font-family:"Roboto",sans-serif;
+}
+.header {
+}
+.header-navigation {
+}
+.header-list {
+}
+.header-item {
+font-weight: 500;
+font-size: 16px;
+line-height: 1,5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.header-link {
+}
+.header-list-contact {
+}
+.header-list-contac-item {
+font-weight: 400;
+font-size: 16px;
+line-height: 1,5x;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.header-contact {
+}
+.first-sec {
+}
+.first-sec-text {
+font-weight: 500;
+font-size: 56px;
+line-height: 1,07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+.first-sec-button {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1,18;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+}
+.services-list {
+}
+.services-list-item {
+}
+.services-title {
+font-weight: 500;
+font-size: 20px;
+line-height: 1,2;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.services-paragraf {
+font-weight: 400;
+font-size: 16px;
+line-height: 1,5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.title-section-doing {
+font-weight: 500;
+font-size: 36px;
+line-height: 1,111;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
+.doing-list {
+}
+.duing-img-computer {
+}
+.duing-img-iphone {
+}
+.duing-img-hand {
+}
+.section-team {
+}
+.title-section-team {
+font-weight: 500;
+font-size: 36px;
+line-height: 1,111;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
+.team-list {
+}
+.team-member {
+}
+.photo-member {
+}
+.team-tile {
+font-weight: 500;
+font-size: 20px;
+line-height: 1,2;
+text-align: center;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.team-pozition {
+font-weight: 400;
+font-size: 16px;
+line-height: 1,5;
+text-align: center;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.logo {
+}
+.footer-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1,5;
+letter-spacing: 0.02em;
+color: #E7E9FC;
+}
