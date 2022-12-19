@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto","Raleway" sans-serif;
+  font-family: "Roboto",sans-serif;
   color: #ffffff;
 }
 .list {
@@ -19,7 +19,7 @@ font-family: 'Raleway';
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
-line-height: 1,33;
+line-height: 1.33;
 display: flex;
 align-items: center;
 letter-spacing: 0.03em;
@@ -31,7 +31,7 @@ font-family: 'Raleway';
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
-line-height: 1,33;
+line-height: 1.33;
 display: flex;
 align-items: center;
 letter-spacing: 0.03em;
@@ -45,7 +45,7 @@ color: #2E2F42;
 .header-item {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1,5;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -58,7 +58,7 @@ color: #2E2F42;
 .header-list-contact {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1,44;
+  line-height: 1.44;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -70,14 +70,14 @@ color: #2E2F42;
 .header-list-contac-item {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1,5x;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 .header-contact {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1,5x;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -90,7 +90,7 @@ color: #2E2F42;
 .first-sec-text {
   font-weight: 500;
   font-size: 56px;
-  line-height: 1,07;
+  line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
@@ -114,28 +114,28 @@ color: #2E2F42;
 .services-list-item {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1,5;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 .services-title {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1, 2;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .services-paragraf {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1,5;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 .title-section-doing {
   font-weight: 500;
   font-size: 36px;
-  line-height: 1,111;
+  line-height: 1.111;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -154,7 +154,7 @@ color: #2E2F42;
 .title-section-team {
   font-weight: 500;
   font-size: 36px;
-  line-height: 1,111;
+  line-height: 1.111;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -169,7 +169,7 @@ color: #2E2F42;
 .team-tile {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1,2;
+  line-height: 1.2;
   text-align: center;
   letter-spacing: 0.02em;
   color: #2e2f42;
@@ -177,7 +177,7 @@ color: #2E2F42;
 .team-pozition {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1,5;
+  line-height: 1.5;
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
@@ -191,7 +191,7 @@ font-family: 'Raleway';
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
-line-height: 1,16;
+line-height: 1.16;
 display: flex;
 align-items: center;
 letter-spacing: 0.03em;
@@ -203,7 +203,7 @@ font-family: 'Raleway';
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
-line-height: 1,16;
+line-height: 1.16;
 display: flex;
 align-items: center;
 letter-spacing: 0.03em;
@@ -214,7 +214,7 @@ color: #F4F4FD;
 .footer-text {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1,5;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #e7e9fc;
 }
@@ -228,7 +228,7 @@ color: #F4F4FD;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1,5;
+  line-height: 1.5;
   display: flex;
   align-items: center;
   text-align: center;
@@ -249,14 +249,14 @@ color: #F4F4FD;
 .portfolio-list-title {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1,2;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .portfolio-list-text {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1,5;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
